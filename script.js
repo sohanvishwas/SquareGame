@@ -40,7 +40,6 @@ s2.addEventListener("mouseleave",function(){
 
 
 
-//rgb(a,b,c)where a,b,c lies between 0 to 255
 let s3=document.getElementById("sq3")
 s3.addEventListener("mouseenter",function(){
     let r1=Math.floor(Math.random()*256)
